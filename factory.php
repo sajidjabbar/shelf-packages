@@ -1,5 +1,5 @@
  <!-- Header Include -->
- <?php include 'inc/head.php';?>
+ <?php include 'inc/head.php'; ?>
  <!-- Header Include -->
 
  <link rel="stylesheet" href="css/factory.css">
@@ -344,23 +344,22 @@
                      <p>Contact us for repair and customise Job</p>
                  </div>
              </div>
-             
+
              <div class="col-md-3 col-sm-3 col-xs-3 col-lg-3 for-border">
                 <div class="contact-icon">
                     <ul>
-                        <li><a href="#"><img class="img-fluid" src="images/fill1.png" alt=""> </a></li>
-                        <li><a href="#"><img class="img-fluid" src="images/fill2.png" alt=""> </a></li>
+                        <li><a href="https://www.facebook.com/EasyPack%20Luggage"><img class="img-fluid" src="images/fill1.png" alt=""> </a></li>
+                        <li><a href="https://www.instagram.com/easypackluggage22"><img class="img-fluid" src="images/fill2.png" alt=""> </a></li>
                         <li><a href="#"><img class="img-fluid" src="images/fill3.png" alt=""> </a></li>
                     </ul>
                 </div>
                 <div class="contact-icon">
                     <ul>
-                    <li><a href="#"><img class="img-fluid" src="images/fill4.png" alt=""> </a></li>
-                    <li><a href="#"><img class="img-fluid" src="images/fill5.png" alt=""> </a></li>
+                    <li><a href="https://www.pinterest.com/@easypackluggage"><img class="img-fluid" src="images/fill4.png" alt=""> </a></li>
+                    <li><a href="https://www.tiktok.com/@easypackluggage"><img class="img-fluid" src="images/fill5.png" alt=""> </a></li>
                     <li><a href="#"><img class="img-fluid" src="images/fill6.png" alt=""> </a></li>
                     </ul>
                 </div>
-
             </div>
              <div class="col-md-6 col-xs-6 col-sm-6 col-lg-6">
                  <div class="row">
@@ -397,5 +396,5 @@
  <!-- ***********************************************End of Contact Us section********************************************** -->
 
  <!-- Head include -->
- <?php include 'inc/footer.php';?>
+ <?php include 'inc/footer.php'; ?>
  <!-- Head include -->

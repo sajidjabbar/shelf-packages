@@ -4,7 +4,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-md-4">
-                        <a href="index.php"><img class="img-fluid" src="images/logo.png" alt=""></a>
+                        <a href="index.php"><img class="img-fluid logo-img" src="images/logo-transperent.png" alt=""></a>
                     </div>
                     <div class="col-md-8">
                         <div class="nav-list">

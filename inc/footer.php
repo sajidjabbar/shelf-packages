@@ -64,10 +64,12 @@
                             </svg>
                             <div class="footer-icons">
                                 <ul>
-                                    <li><a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-pinterest-p" aria-hidden="true"></i></a></li>
+                                    <li><a href="https://www.facebook.com/EasyPack%20Luggage"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+                                    <li><a href="https://www.instagram.com/easypackluggage22"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
+                                    <li><a href=""><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+                                    <li><a href="https://www.tiktok.com/@easypackluggage" class="p-0 tiktokanchor"><img src="images/fill5.png" class="tiktokimg" alt=""></a></li>
+                                    <li><a href="https://www.pinterest.com/@easypackluggage"><i class="fa fa-pinterest-p" aria-hidden="true"></i></a></li>
+                                    </li>
                                 </ul>
                             </div>
                         </div>
