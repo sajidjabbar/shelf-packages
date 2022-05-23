@@ -36,7 +36,7 @@
  <div class="car-caption-flex">
      <div class="car-caption">
          <h3>Best of our Products</h3>
-         <h2>ShelfPack <br> Suitcases</h2>
+         <h2>EasyPack<br>Luggage</h2>
          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit,<br> sed do eiusmod tempor incididunt ut labore et
              dolore <br> magna aliqua. Ut enim ad minim veniam.</p>
          <a href="#">Shop Now</a>
@@ -346,32 +346,30 @@
              </div>
 
              <div class="col-md-3 col-sm-3 col-xs-3 col-lg-3 for-border">
-                <div class="contact-icon">
-                    <ul>
-                        <li><a href="https://www.facebook.com/EasyPack%20Luggage"><img class="img-fluid" src="images/fill1.png" alt=""> </a></li>
-                        <li><a href="https://www.instagram.com/easypackluggage22"><img class="img-fluid" src="images/fill2.png" alt=""> </a></li>
-                        <li><a href="#"><img class="img-fluid" src="images/fill3.png" alt=""> </a></li>
-                    </ul>
-                </div>
-                <div class="contact-icon">
-                    <ul>
-                    <li><a href="https://www.pinterest.com/@easypackluggage"><img class="img-fluid" src="images/fill4.png" alt=""> </a></li>
-                    <li><a href="https://www.tiktok.com/@easypackluggage"><img class="img-fluid" src="images/fill5.png" alt=""> </a></li>
-                    <li><a href="#"><img class="img-fluid" src="images/fill6.png" alt=""> </a></li>
-                    </ul>
-                </div>
-            </div>
+                 <div class="contact-icon">
+                     <ul>
+                         <li><a href="https://www.facebook.com/EasyPack%20Luggage"><img class="img-fluid" src="images/fill1.png" alt=""> </a></li>
+                         <li><a href="https://www.instagram.com/easypackluggage22"><img class="img-fluid" src="images/fill2.png" alt=""> </a></li>
+                         <li><a href="#"><img class="img-fluid" src="images/fill3.png" alt=""> </a></li>
+                     </ul>
+                 </div>
+                 <div class="contact-icon">
+                     <ul>
+                         <li><a href="https://www.pinterest.com/@easypackluggage"><img class="img-fluid" src="images/fill4.png" alt=""> </a></li>
+                         <li><a href="https://www.tiktok.com/@easypackluggage"><img class="img-fluid" src="images/fill5.png" alt=""> </a></li>
+                         <li><a href="#"><img class="img-fluid" src="images/fill6.png" alt=""> </a></li>
+                     </ul>
+                 </div>
+             </div>
              <div class="col-md-6 col-xs-6 col-sm-6 col-lg-6">
                  <div class="row">
                      <div class="col-md-6 col-sm-6 col-xs-6 col-lg-6">
                          <div class="contact-form">
                              <div class="form-group">
-                                 <input type="text" class="form-control" id="exampleInputEmail1"
-                                     aria-describedby="emailHelp" placeholder="Full Name">
+                                 <input type="text" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Full Name">
                              </div>
                              <div class="form-group">
-                                 <input type="email" class="form-control" id="exampleInputEmail1"
-                                     aria-describedby="emailHelp" placeholder="Phone">
+                                 <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Phone">
                              </div>
                          </div>
 
@@ -379,8 +377,7 @@
                      <div class="col-md-6 col-sm-6 col-xs-6 col-lg-6">
                          <div class="contact-form">
                              <div class="form-group">
-                                 <input type="text" class="form-control" id="exampleInputEmail1"
-                                     aria-describedby="emailHelp" placeholder="Email Address">
+                                 <input type="text" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Email Address">
                              </div>
                              <div class="form-btn">
                                  <button type="submit" class="btn btn-primary">Get In Touch</button>

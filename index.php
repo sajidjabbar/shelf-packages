@@ -33,7 +33,7 @@
 <div class="car-caption-flex">
     <div class="car-caption">
         <h3 class="animate__animated animate__bounce">Best of our Products</h3>
-        <h2 class="wow animate__animated animate__fadeInRight">ShelfPack Suitcases</h2>
+        <h2 class="wow animate__animated animate__fadeInRight">EasyPack Luggage</h2>
         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do</p>
         <img class="img-fluid" src="images/vv.png" alt="">
 

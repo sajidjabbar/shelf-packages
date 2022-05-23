@@ -40,7 +40,7 @@
             </div>
             <div class="col-md-2">
                 <div class="footer-head">
-                    <h4>Shelfpack for</h4>
+                    <h4>EasyPack for</h4>
                     <ul>
                         <li><a href="#">Designers</a></li>
                         <li><a href="#">Entrepreneurs</a></li>

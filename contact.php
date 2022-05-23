@@ -36,7 +36,7 @@
  <div class="car-caption-flex">
      <div class="car-caption">
          <h3>Best of our Products</h3>
-         <h2>ShelfPack Suitcases</h2>
+         <h2>EasyPack Luggage</h2>
          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do</p>
          <a href="#">Shop Now</a>
 
